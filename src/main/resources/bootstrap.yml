@@ -3,4 +3,4 @@ spring:
     name: eureka-server
   cloud:
     config:
-      uri: http://192.168.1.18:8081
+      uri: http://localhost:8081
